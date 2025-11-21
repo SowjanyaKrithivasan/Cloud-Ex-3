@@ -343,3 +343,10 @@ Syntax: df
 The find command is used to find a particular file within a directory.
 
 Syntax: find.-name”*.pdf”
+
+<img width="293" height="85" alt="cs30a" src="https://github.com/user-attachments/assets/c8f8528f-ae3b-4756-b934-25eb2f8e6214" />
+
+<img width="351" height="75" alt="cs30b" src="https://github.com/user-attachments/assets/dca642e7-e848-4da3-a6e7-03b51b731bd2" />
+
+## Result:
+Thus, the execution of various Linux commands is executed successfully using Kali Linux.
